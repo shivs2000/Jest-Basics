@@ -1,0 +1,13 @@
+{
+  "name": "jest-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testWatch":"jest --watchAll",
+    "test coverage":"jest --coverage"
+  },
+  "author": "Shivam Singh",
+  "license": "MIT"
+}
